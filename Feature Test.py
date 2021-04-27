@@ -1,5 +1,9 @@
 # Databricks notebook source
-# MAGIC %md ## This is a test
+# MAGIC %md # Added a new title
+
+# COMMAND ----------
+
+# MAGIC %md ## Amended this title
 
 # COMMAND ----------
 
